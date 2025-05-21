@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/maifjookrs4xyky2/branch/main?svg=true)](https://ci.appveyor.com/project/annakuydan/diplom1/branch/main)
+
+
 # Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов»
 
 ### Краткое описание задачи дипломной работы
