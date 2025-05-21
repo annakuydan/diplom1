@@ -1,7 +1,7 @@
 {
    "name": "fe-2-diplom",
    "version": "0.1.0",
-   "homepage": "https://github.com/annakuydan/diplom1/",
+   "homepage": "https://github.com/annakuydan/diplom1",
    "private": true,
    "dependencies": {
       "@ant-design/icons": "^4.7.0",
